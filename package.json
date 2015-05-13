@@ -1,0 +1,11 @@
+{
+  "name": "transform-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clement Hoang <clement.hoang24@gmail.com> (http://clementhoang.net)",
+  "license": "ISC"
+}
